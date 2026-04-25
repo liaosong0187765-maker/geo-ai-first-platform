@@ -87,7 +87,7 @@ That means the same facts generate:
 
 This avoids the common GEO mistake: writing a nice marketing page first, then trying to patch AI-readable files onto it later.
 
-## Next extensions
+## extensions
 
 1. URL importer using Firecrawl or browser fetch.
 2. LLM extractor that converts raw website pages into this JSON schema.
